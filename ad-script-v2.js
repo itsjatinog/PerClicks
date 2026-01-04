@@ -6,7 +6,7 @@
     const uid = root.getAttribute('data-owner-uid');
     
     // YOUR WEBSITE REDIRECT PAGE URL
-    const REDIRECT_PAGE = "https://yourwebsite.com/process-click.html";
+    const REDIRECT_PAGE = "https://perclicks.xo.je/process-click.html";
 
     root.innerHTML = `
         <div style="width:100%; display:flex; justify-content:center; background:#f9f9f9; border-radius:8px; border:1px solid #ddd; overflow:hidden;">
